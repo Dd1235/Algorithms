@@ -10,6 +10,8 @@ using namespace std;
 // the solution will look something like abbbbbc
 // the second it is like abbbbbbba you shift pointers to get ba
 
+// two pointers kinda, what is the smallest length of a string that ends at index i
+
 int solve(const string &s)
 {
     int n = s.size();
