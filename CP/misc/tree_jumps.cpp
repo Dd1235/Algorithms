@@ -4,6 +4,8 @@
 
 using namespace std;
 
+// 1600
+
 // problem: rooted tree with n vertices, 1 is the root
 // in the array a you have the parents (from root 2 to n)
 // dx - distance from root to x
